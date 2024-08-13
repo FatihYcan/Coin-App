@@ -41,3 +41,7 @@ Crypto Coin Uygulaması, kullanıcıların kripto para bilgilerini aramasını v
 - Fetch API
 - Font Awesome
 - [CoinRanking API](https://developers.coinranking.com/api)
+
+https://github.com/user-attachments/assets/ecf01a45-7675-4060-afe9-1772d05a3bf7
+
+[Canlı Demo'yu Deneyin](https://fy-coin-app.netlify.app/)
