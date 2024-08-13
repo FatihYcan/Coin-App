@@ -18,7 +18,7 @@ Crypto Coin App is a web application that allows users to search and view crypto
 - SweetAlert2
 - Fetch API
 - Font Awesome
-- [CoinRanking API](https://developers.coinranking.com/api).
+- [CoinRanking API](https://developers.coinranking.com/api)
 
 # Crypto Coin Uygulaması
 
@@ -40,4 +40,4 @@ Crypto Coin Uygulaması, kullanıcıların kripto para bilgilerini aramasını v
 - SweetAlert2
 - Fetch API
 - Font Awesome
-- [CoinRanking API](https://developers.coinranking.com/api).
+- [CoinRanking API](https://developers.coinranking.com/api)
