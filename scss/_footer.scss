@@ -1,0 +1,35 @@
+//*  ---- FOOTER ----
+@use "variables" as *;
+
+footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  background-color: $bg_dark;
+  border-top: 2px solid $primary;
+  border-radius: 0 0 10px 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px -10px 20px, rgba(0, 0, 0, 0.15) 0px -6px 6px;
+  font-size: 1rem;
+  color: $text_light;
+
+  small {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    color: $text_light;
+    
+    span {
+      color: $red;
+      font-size: 1.2rem;
+      font-weight: bold;
+      display: inline-block;
+      transition: color 0.3s ease-in-out;
+
+      &:hover {
+        color: lighten($red, 10%);
+      }
+    }
+  }
+}
