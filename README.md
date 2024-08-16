@@ -12,6 +12,7 @@ Crypto Coin App is a web application that allows users to search and view crypto
 ## Technologies Used
 
 - HTML5
+- CSS3
 - SCSS
 - JavaScript
 - SweetAlert2
@@ -34,6 +35,7 @@ Crypto Coin Uygulaması, kullanıcıların kripto para bilgilerini aramasını v
 ## Kullanılan Teknolojiler
 
 - HTML5
+- CSS3
 - SCSS
 - JavaScript
 - SweetAlert2
